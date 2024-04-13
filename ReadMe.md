@@ -87,7 +87,7 @@ Based on the model performance metrics, Logistic Regression and Random Forest em
 <a id="sample_visuals"></a>
 ## Sample Visualizations
 
-![Sample Visualization 1](media/univariate_feature_analysis.png)
+![Sample Visualization 1](media/univariate_feature_analysis_grid.png)
 ![Sample Visualization 2](media/confusion_matrix_heatmap.png)
 
 <a id="license"></a>
